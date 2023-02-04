@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 710c880799ac4264dab849dc626d5ac8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/FirstGearGames/SmoothCameraShaker/Scripts/Presets/ConstantCurvy.asset
+  uploadId: 557968

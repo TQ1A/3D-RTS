@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a29ab16c2faf95a4e912b7bf31c39a7f
+timeCreated: 1527199791
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/FirstGearGames/Utilities/Structures/RangeFloat.cs
+  uploadId: 557968

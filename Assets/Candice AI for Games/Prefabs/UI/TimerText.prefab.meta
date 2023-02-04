@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ad9b7acfc73d124db96a729b4c47a23
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/UI/TimerText.prefab
+  uploadId: 557968

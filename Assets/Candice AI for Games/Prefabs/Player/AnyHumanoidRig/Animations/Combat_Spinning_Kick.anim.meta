@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed38e3c6317b95b43b90410d67a46b4a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Player/AnyHumanoidRig/Animations/Combat_Spinning_Kick.anim
+  uploadId: 557968

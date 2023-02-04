@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5198bc66be2f5a048953c5206aafd1ed
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Player/AnyHumanoidRig/Animations/Run_Fwd_L.anim
+  uploadId: 557968

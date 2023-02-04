@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5da86044911c5da48aea180d5e603dc4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Player/AnyHumanoidRig/Animations/Death_Fwd.anim
+  uploadId: 557968

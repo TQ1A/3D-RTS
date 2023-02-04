@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 58b3fda749163f142b26ea94be1da637
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/FirstGearGames/SmoothCameraShaker/Scripts/Shakables/ShakableRigidbody2D.cs
+  uploadId: 557968

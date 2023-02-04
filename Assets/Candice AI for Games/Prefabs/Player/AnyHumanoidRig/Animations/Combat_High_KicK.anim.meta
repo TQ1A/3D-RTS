@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5956f7ad0f6be3b40b77475f196fb93b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Player/AnyHumanoidRig/Animations/Combat_High_KicK.anim
+  uploadId: 557968

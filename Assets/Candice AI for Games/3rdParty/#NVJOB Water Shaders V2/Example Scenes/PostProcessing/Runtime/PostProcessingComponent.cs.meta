@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e9edc827b2dc43cb96590fe2b3183288
+timeCreated: 1473009349
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Runtime/PostProcessingComponent.cs
+  uploadId: 557968

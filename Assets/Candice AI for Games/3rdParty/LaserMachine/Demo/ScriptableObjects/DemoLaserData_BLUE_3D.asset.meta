@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 54aa03c846d6b1344a1a3953a407fbd1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/LaserMachine/Demo/ScriptableObjects/DemoLaserData_BLUE_3D.asset
+  uploadId: 557968

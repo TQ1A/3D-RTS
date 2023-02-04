@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef10619113f7a4a4fabc94e272d9fa29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Melee Enemies/Titan/Animations/Titan_Attack_1.anim
+  uploadId: 557968

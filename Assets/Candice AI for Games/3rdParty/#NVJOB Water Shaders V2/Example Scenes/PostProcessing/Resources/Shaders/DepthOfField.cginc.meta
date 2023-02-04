@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a0a43f6a8e9b4327b76e5e969cf7181b
+timeCreated: 1472211508
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Resources/Shaders/DepthOfField.cginc
+  uploadId: 557968

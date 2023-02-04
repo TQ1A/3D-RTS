@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f5e53c2bf8024983bb0f9d57310367bb
+timeCreated: 1487335480
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Resources/Shaders/Fog.shader
+  uploadId: 557968

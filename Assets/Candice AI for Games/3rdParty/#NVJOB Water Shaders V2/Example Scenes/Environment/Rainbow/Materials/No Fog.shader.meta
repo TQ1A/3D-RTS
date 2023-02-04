@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2b064e597c604f38b3d712c88a7c2b65
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/Environment/Rainbow/Materials/No Fog.shader
+  uploadId: 557968

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1f395dc36faa64b4e97f21e9f4b8c3d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Ranged Enemies/Drone/Animations/Drone
+    Hurt.anim
+  uploadId: 557968

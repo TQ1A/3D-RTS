@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b59c2f79e8544599995df781b13fb391
+timeCreated: 1479896287
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Utilities/CustomMotionTexture/Materials/DebugQuad.mat
+  uploadId: 557968

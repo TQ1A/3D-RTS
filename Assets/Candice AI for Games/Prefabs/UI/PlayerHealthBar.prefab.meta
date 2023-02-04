@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f59699811edc23f42a6609ca58464767
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/UI/PlayerHealthBar.prefab
+  uploadId: 557968

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 049e086ab786dbe478d2923e5d8b9990
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Player/AnyHumanoidRig/Animations/Hit_Fwd.anim
+  uploadId: 557968

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0046a5e85934bb342a07d23d3034ee9e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Scripts/CandiceAnimationManager.cs
+  uploadId: 557968

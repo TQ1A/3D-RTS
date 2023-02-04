@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c6062901f01a2e40bae62c743fdac13
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/FirstGearGames/SmoothCameraShaker/Scripts/Presets/ConstantFlat.asset
+  uploadId: 557968

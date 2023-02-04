@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac3835451a767214b82d576c253981df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Player/Mecha/Animations/AttackCandiceAIMechaAnim.anim
+  uploadId: 557968

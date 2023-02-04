@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa80e235fc5163544a967dbb95c3274b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/UI/SavePanel.prefab
+  uploadId: 557968

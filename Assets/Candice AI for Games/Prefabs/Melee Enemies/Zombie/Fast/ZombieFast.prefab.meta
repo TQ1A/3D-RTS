@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebae04a31045c7948919c697108e9a15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Melee Enemies/Zombie/Fast/ZombieFast.prefab
+  uploadId: 557968

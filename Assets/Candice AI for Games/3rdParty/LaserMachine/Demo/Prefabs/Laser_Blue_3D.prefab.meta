@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a76c42d3eb9f68744aca0c439591f624
+timeCreated: 1548632487
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/LaserMachine/Demo/Prefabs/Laser_Blue_3D.prefab
+  uploadId: 557968

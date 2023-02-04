@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fa3f2bed089e49daa561f1c7f991c92d
+timeCreated: 1462980395
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Resources/Shaders/Bloom.cginc
+  uploadId: 557968

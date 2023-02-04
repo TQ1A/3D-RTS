@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ac0ccf9c8f1245369297c34cf01c8ae0
+timeCreated: 1464350148
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Resources/Shaders/ScreenSpaceRaytrace.cginc
+  uploadId: 557968

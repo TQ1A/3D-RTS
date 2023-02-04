@@ -13,6 +13,6 @@ public class LookAt_lock : MonoBehaviour
 
     void Lock()
     {
-        transform.position = new Vector3(_target.position.x, 0, _target.position.z+5f);
+        _target.transform.position = new Vector3(transform.position.x, 0, transform.position.z+5f);
     }
 }

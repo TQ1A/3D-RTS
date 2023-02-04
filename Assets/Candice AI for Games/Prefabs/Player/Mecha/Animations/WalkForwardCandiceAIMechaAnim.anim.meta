@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf47d8f7fdcc1034991cba7770b0352a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/Prefabs/Player/Mecha/Animations/WalkForwardCandiceAIMechaAnim.anim
+  uploadId: 557968

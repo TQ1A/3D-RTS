@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5dbacafb14b963b419b64fb35a8add7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/FirstGearGames/Utilities/Floats.cs
+  uploadId: 557968

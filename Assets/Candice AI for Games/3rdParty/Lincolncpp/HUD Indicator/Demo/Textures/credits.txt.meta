@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 925809e86677f42488c2cb128ec47395
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/Lincolncpp/HUD Indicator/Demo/Textures/credits.txt
+  uploadId: 557968

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 84fe605bf6fc458cbcfed11f7a45c363
+timeCreated: 1459956426
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Resources/Shaders/Uber.shader
+  uploadId: 557968

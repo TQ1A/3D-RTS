@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 409e3692243841dba3c9220ad9b6c72e
+timeCreated: 1476347976
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/#NVJOB Water Shaders V2/Example
+    Scenes/PostProcessing/Resources/Shaders/GrainGen.shader
+  uploadId: 557968

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b73383ab2459f2643abe557b2d08dcd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148441
+  packageName: Candice AI for Games
+  packageVersion: 2.0.0
+  assetPath: Assets/Candice AI for Games/3rdParty/Drone_Guard/Animation/Drone_Controller.controller
+  uploadId: 557968
