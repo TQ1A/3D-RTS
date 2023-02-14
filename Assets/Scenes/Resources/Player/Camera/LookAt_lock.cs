@@ -9,6 +9,7 @@ public class LookAt_lock : MonoBehaviour
     private void Update()
     {
         Lock();
+        transform.LookAt(_target);
     }
 
     void Lock()
