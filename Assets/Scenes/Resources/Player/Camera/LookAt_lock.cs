@@ -9,10 +9,11 @@ public class LookAt_lock : MonoBehaviour
     private void Update()
     {
         Lock();
+        transform.LookAt(_target);
     }
 
     void Lock()
     {
-        transform.position = new Vector3(_target.position.x, 0, _target.position.z+5f);
+        _target.transform.position = new Vector3(transform.position.x, 0, transform.position.z+5f);
     }
 }
