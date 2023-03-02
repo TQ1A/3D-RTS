@@ -9,7 +9,6 @@ using UnityEngine.PlayerLoop;
 public class CameraZoom : MonoBehaviour
 {
     public Camera _myCamera;
-    public Transform _target;
     private Rigidbody _rb;
     private float _modify;
     private float _zoom;
@@ -23,7 +22,6 @@ public class CameraZoom : MonoBehaviour
     void Update()
     {
         Zoom();
-        transform.LookAt(_target);
     }
 
     void Zoom()
