@@ -315,7 +315,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _myCamera: {fileID: 963194227}
-  _target: {fileID: 2103782209}
   _zoomSpeed: 25
   _maxHigh: 100
 --- !u!54 &116648410
@@ -948,7 +947,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   volumeAnchorOverride: {fileID: 0}
-  antialiasing: 0
+  antialiasing: 3
   SMAAQuality: 2
   dithering: 0
   stopNaNs: 0
