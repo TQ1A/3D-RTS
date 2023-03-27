@@ -22,7 +22,7 @@ public class Maket : MonoBehaviour
         {
             if (hits[i].collider.tag == "Ground")
             {
-                gameObject.transform.position = hits[i].point + new Vector3(0, gameObject.GetComponent<Collider>().bounds.size.y/2, 0);
+                gameObject.transform.position = hits[i].point;
             }
         }
     }
@@ -32,7 +32,7 @@ public class Maket : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Mouse0))
         {
             Debug.Log(gameObject.transform);
-            Instantiate(_obj, gameObject.transform.position, Quaternion.identity, GameObject.Find("Buildings").transform);
+            Instantiate(_obj, gameObject.transform.position, _obj.transform.rotation, GameObject.Find("Buildings").transform);
             Destroy(gameObject);
         }
     }

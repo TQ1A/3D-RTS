@@ -9,11 +9,11 @@ using UnityEngine.PlayerLoop;
 public class CameraZoom : MonoBehaviour
 {
     public Camera _myCamera;
-    public Transform _target;
     private Rigidbody _rb;
     private float _modify;
     private float _zoom;
     [SerializeField] public float _zoomSpeed;
+    [SerializeField] public float _maxHigh;
 
     private void Start()
     {
@@ -23,7 +23,6 @@ public class CameraZoom : MonoBehaviour
     void Update()
     {
         Zoom();
-        transform.LookAt(_target);
     }
 
     void Zoom()
@@ -32,7 +31,7 @@ public class CameraZoom : MonoBehaviour
         _zoom = Input.mouseScrollDelta.y;
         Vector3 dir = _myCamera.ScreenPointToRay(Input.mousePosition).direction * _modify;
 
-        if (_zoom < 0 && _rb.position.y < 100)
+        if (_zoom < 0 && _rb.position.y < _maxHigh)
         {
             _rb.AddForce(new Vector3(0, dir.y * _zoom * _zoomSpeed * _modify, _zoom * _zoomSpeed * _modify));
         }
